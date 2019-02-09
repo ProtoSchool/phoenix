@@ -21,3 +21,13 @@ By participating in this project (online and at live chapter events) you agree t
 ## License
 
 ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](https://github.com/protoschool/seattle/blob/master/LICENSE.md) for further detail.
+
+## Other groups in Phoenix Metro area
+
+* [Makers of Phoenix Meetup](https://www.meetup.com/MakersOfPhoenix/)
+
+* [Desert Blockchain Meetup](https://www.meetup.com/Desert-Blockchain/)
+
+* [Decentralizaton Meetup](https://www.meetup.com/decentralization/)
+
+* [EOS Phoenix](https://www.meetup.com/BlockchainAZ/)
