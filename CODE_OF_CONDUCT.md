@@ -67,8 +67,7 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the chapter organizing team at
-Chapter organizers (mailto:eosArizona@gmail.com). All complaints 
+reported by contacting the chapter organizing team at [eosArizona@gmail.com](mailto:eosArizona@gmail.com). All complaints 
 will be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The chapter organizing team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -97,8 +96,7 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
-chapter leadership**.
+https://www.contributor-covenant.org/faq.
 
 Sections on event-related policies are adapted from the
 [Conference Code of Conduct](http://confcodeofconduct.com/), which is sourced from [JS Conf](http://2012.jsconf.us/#/about) and [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and
